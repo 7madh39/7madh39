@@ -135,7 +135,7 @@
 
 🎧 I enjoy coding while listening to music.
 
-📖 I love learning something new every day.
+📖 I love learning something new every days.
 
 🧩 I enjoy solving programming and engineering challenges.
 
